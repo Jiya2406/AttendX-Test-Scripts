@@ -25,3 +25,7 @@ python attendance_test.py
 ## Version Control
 Git is used for local version control, and GitHub
 stores the remote repository.
+
+## Team Collaboration
+All QA engineers should commit their changes with meaningful messages.
+Pull the latest changes before starting new work.
