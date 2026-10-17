@@ -6,7 +6,7 @@ def test_login_with_valid_credentials():
     login_success = username == "student01" and password == "pass123"
 
     assert login_success
-    print("Login test passed!")
+    print("Login test passed for AttendX!")
 
 
 if __name__ == "__main__":
